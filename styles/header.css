@@ -34,6 +34,11 @@ width: 60vw;
 
     padding:1em;
 }
+.lista__menu-link{
+ color: var(--roxo);
+ 
+
+}
 .conteiner__botao:checked~.lista__menu{
     display: block;
 }
