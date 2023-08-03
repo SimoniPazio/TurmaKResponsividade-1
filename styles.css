@@ -4,6 +4,8 @@
     --branco:#FFFFFF;
     --roxo:#C75EED;
     --amarelo:#fece2f; 
+    --fonte-principal:"Poppins";
+    --fonte-secundaria:"Josefin Sans";
 }
 
 body{
