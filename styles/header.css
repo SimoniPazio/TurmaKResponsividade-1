@@ -54,3 +54,19 @@ width: 60vw;
 .conteiner__titulo{
     display: none;
 }
+
+@media screen and (min-width:1024px) {
+
+    .conteiner__titulo{
+        display: block;
+    } 
+    
+    .cabecalho__menu{
+        display: none;
+    }
+
+    .conteiner__favorito{
+        display: none;
+    }
+    
+}
