@@ -51,3 +51,6 @@ width: 60vw;
 .conteiner__botao{
     display: none;
 }
+.conteiner__titulo{
+    display: none;
+}
