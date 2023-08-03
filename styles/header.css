@@ -61,6 +61,7 @@ width: 60vw;
         display: block;
         font-family: var(--fonte-secundaria);
         font-weight: 400;
+        font-size: 30px;
     } 
     
     .conteiner__titulo--negrito{
